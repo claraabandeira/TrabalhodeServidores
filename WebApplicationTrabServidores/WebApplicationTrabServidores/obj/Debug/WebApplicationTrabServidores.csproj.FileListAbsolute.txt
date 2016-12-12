@@ -1,0 +1,5 @@
+C:\Users\clara\Documents\IFRN\Servidores\WebApplicationTrabServidores\WebApplicationTrabServidores\bin\WebApplicationTrabServidores.dll
+C:\Users\clara\Documents\IFRN\Servidores\WebApplicationTrabServidores\WebApplicationTrabServidores\bin\WebApplicationTrabServidores.pdb
+C:\Users\clara\Documents\IFRN\Servidores\WebApplicationTrabServidores\WebApplicationTrabServidores\obj\Debug\WebApplicationTrabServidores.csprojResolveAssemblyReference.cache
+C:\Users\clara\Documents\IFRN\Servidores\WebApplicationTrabServidores\WebApplicationTrabServidores\obj\Debug\WebApplicationTrabServidores.dll
+C:\Users\clara\Documents\IFRN\Servidores\WebApplicationTrabServidores\WebApplicationTrabServidores\obj\Debug\WebApplicationTrabServidores.pdb
